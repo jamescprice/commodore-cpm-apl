@@ -34,3 +34,9 @@ http://www.z80.eu/downloads/C128-CPMBOOT.pdf has an overview of the c128 process
 see also  https://groups.google.com/g/imsai8080esp/c/dLdVoiR8st8
 
 and https://05674623194101684859.googlegroups.com/attach/15d0a3a74d621/APL-Z80.pdf?part=0.1&view=1&vt=ANaJVrFnKNyEq6NSEykMgXZcS5Qd6EudrkoBOHuyy99zcNfVofnCg9aCvlOZl5dEnte5J1rmcU_uz6VJZ0v40PxGTmSLzD8lRy52QdcDKezV7pE098Rbbm4
+
+
+NOTE i cant seem to get the C64 lowercase to work, can anyone figure it out?
+it seems to have lowercase because the error messages and system status show up in lowercase. can't seem to use capslock or shift to get to it.
+does it need some kind of bios hack?
+http://www.devili.iki.fi/Computers/Commodore/C64/CPM/c64bios.html
