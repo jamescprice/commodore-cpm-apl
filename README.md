@@ -38,5 +38,5 @@ and https://05674623194101684859.googlegroups.com/attach/15d0a3a74d621/APL-Z80.p
 
 NOTE i cant seem to get the C64 lowercase to work, can anyone figure it out?
 it seems to have lowercase because the error messages and system status show up in lowercase. can't seem to use capslock or shift to get to it.
-does it need some kind of bios hack?
+does it need some kind of bios hack? with uppercase treated as the special APL symbols there no way to use the lowercase alpha characters in variable names or function definitions, leaving it in calculator mode basically
 http://www.devili.iki.fi/Computers/Commodore/C64/CPM/c64bios.html
