@@ -30,3 +30,7 @@ type  apl  hit return to load into apl
 
 
 http://www.z80.eu/downloads/C128-CPMBOOT.pdf has an overview of the c128 process
+
+see also  https://groups.google.com/g/imsai8080esp/c/dLdVoiR8st8
+
+and https://05674623194101684859.googlegroups.com/attach/15d0a3a74d621/APL-Z80.pdf?part=0.1&view=1&vt=ANaJVrFnKNyEq6NSEykMgXZcS5Qd6EudrkoBOHuyy99zcNfVofnCg9aCvlOZl5dEnte5J1rmcU_uz6VJZ0v40PxGTmSLzD8lRy52QdcDKezV7pE098Rbbm4
