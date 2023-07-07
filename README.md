@@ -13,6 +13,7 @@ under file->attach disk drive  put apllife.d64 into drive 8
 
 type  apl  hit return to load into apl
 
+use control-Tab to shift case lower/upper. the upper case are the APL special characters, low case is alphabet characters
 
 c128: launch Vice as   x128  -80col   or use the do-cpm-c128 windows batch file placed into the Vice bin director
 
