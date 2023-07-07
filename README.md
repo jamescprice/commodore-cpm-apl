@@ -7,6 +7,14 @@ c64: launch Vice as    x64 -cpmcart 1   or use the do-cpm-c64 windows batch file
 
 drag and drop the c64-cpm.d64 file into the C64  (switch to use warp setting for faster load)
 
+alternative, load the c64-cpm-patched-for-two-drives-drive-b.d64 to use a cp/m image that lets you use drive B: too
+
+it's patched with the BASIC program at http://www.z80.eu/c64.html
+
+(to patch c64-cpm.d64 yourself just go to c64 basic, put the c64-cpm.d64 disk in the drive, lowercase the basic code at https://convertcase.net/
+
+then cut and paste the BASIC code into BASIC)
+
 once loaded you'll get the cp/m disk drive A prompt
 
 under file->attach disk drive  put apllife.d64 into drive 8
@@ -14,6 +22,9 @@ under file->attach disk drive  put apllife.d64 into drive 8
 type  apl  hit return to load into apl
 
 use control-Tab to shift case lower/upper. the upper case are the APL special characters, low case is alphabet characters
+
+use the soft80.d64 disk for going to 80 columns, just load it and run soft80.com
+
 
 c128: launch Vice as   x128  -80col   or use the do-cpm-c128 windows batch file placed into the Vice bin director
 
