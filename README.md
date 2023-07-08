@@ -1,8 +1,7 @@
 # commodore-cpm-apl
 
 IMPORTANT: to use the upper case letter Q as the assignment operator (the left arrow) go into the Vice monitor and write
-
-the value 5E to the location 1751 
+the value 5E to the location 1751 (see APLleftarrowremappedasuppercaseQ.png for details)
 
 
 APL/Z disks for the c64 and c128
