@@ -4,9 +4,9 @@ IMPORTANT: in the original APL/Z on the apllife.d64 disk, the left-arrow assignm
 
 ************************************
 7/8/2023 
-I HAVE MADE A NEW, PATCHED VERSION IN C64APL.d64 where uppercase Q is the assignment operator
+I HAVE MADE A NEW, PATCHED VERSION IN C64APLZ.d64 where uppercase Q is the assignment operator
 For the C64 this is a MUST HAVE change. Unless you want to synthesize assignments using the atomic vector, string concatenation, and execution of the string as code.
-So please use the new C64APL.d64 patched version disk which also has APL.COM and LIFE.ACO  which you use by typing  )copy life 
+So please use the new C64APLZ.d64 patched version disk which also has APL.COM and LIFE.ACO  which you bring in from disk by typing  )copy life 
 ************************************
 
 
