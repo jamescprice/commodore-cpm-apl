@@ -1,6 +1,12 @@
 # commodore-cpm-apl
+************************************
+7/8/2023 
+I HAVE MADE A NEW, PATCHED VERSION IN C64APLZ.d64 where uppercase Q is the assignment operator
+For the C64 this is a MUST HAVE change. Unless you want to synthesize assignments using the atomic vector, string concatenation, and execution of the string as code.
+So please use the new C64APLZ.d64 patched version disk which also has APL.COM and LIFE.ACO  which you bring in from disk by typing  )copy life 
+************************************
 
-IMPORTANT: in the original APL/Z on the apllife.d64 disk, the left-arrow assignment operator is mapped to backtick which the C64 doesn't have so to use the upper case letter Q as the assignment operator (the left arrow) go into the Vice monitor and write the value 5E to the location 1751 (see APLleftarrowremappedasuppercaseQ.png for details)
+IMPORTANT if you don't use the patch mentioned above (C64APLZ.d64): in the original APL/Z on the apllife.d64 disk, the left-arrow assignment operator is mapped to backtick which the C64 doesn't have so to use the upper case letter Q as the assignment operator (the left arrow) go into the Vice monitor and write the value 5E to the location 1751 (see APLleftarrowremappedasuppercaseQ.png for details)
 
 ************************************
 7/8/2023 
