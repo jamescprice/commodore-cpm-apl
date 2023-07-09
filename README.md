@@ -1,9 +1,13 @@
 # commodore-cpm-apl
+APL/Z ported to the C64 and C128
+
+
 ************************************
 7/8/2023 
 I HAVE MADE A NEW, PATCHED VERSION OF APL.COM IN C64APLZ.d64 where uppercase Q is the assignment operator
 For the C64 this is a MUST HAVE change. Unless you want to synthesize assignments using the atomic vector, string concatenation, and execution of the string as code.
 So please use the new C64APLZ.d64 patched version disk of APL.COM and conway's game of life LIFE.ACO.  To read in LIFE.ACO from the disk, typing  )copy life 
+You can use this for the C128 too.
 ************************************
 
 IMPORTANT if you don't use the patch mentioned above (C64APLZ.d64): in the original APL/Z on the apllife.d64 disk, the left-arrow assignment operator is mapped to backtick which the C64 doesn't have, so to use the upper case letter Q as the assignment operator (the left arrow) go into the Vice monitor and write the value 5E to the location 1751 (see APLleftarrowremappedasuppercaseQ.png for details)
