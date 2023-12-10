@@ -1,0 +1,65 @@
+cpm-apl.sh
+
+b:
+apl
+
+type apl.not    manual for apl/z 
+
+)off    exit apl
+)vars   display all variables
+)fns    list all functions
+
+O1	display value of pi
+
+v ` 1 2 3 4 5
+        assign a sequence of numbers to v
+ ` v ` 1 2 3
+        assign a sequence of numbers to v and print them out
+
+v ` I10
+v J.* v 
+        displays 10 times table
+v J.+ v 
+        add every element of v to every element of v
+v J.- v
+v J.P v
+
+
++/v     sum all elements of v
+
+_2      negative 2
+
+3*2     returns 3 multiplied by 2
+
+2 P 3   returns 2 to the power of 3
+
+m ` 3 3 R I9
+        assign a matrix to m
+
+t' E 'test
+        returns 1
+
+M _2    returns 2 (absolute value)
+
+
+mappings
+--------
+
+`     -> or assign
+@     <- or left-arrow
+%     divide
+!     logical or
+&     logical and
+P     power (exponent)
+G     del (upside-down delta)
+Y     take (up arrow)
+U     drop (down arrow)
+B     decode
+N     encode
+
+functions
+---------
+
+G test
+'this is a test'
+G
